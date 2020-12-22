@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Adam</h2>
+<h2>Greetings! I'm Adam</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=MicroStrategy)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Graphcool)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQLite)\
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -25,9 +25,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda)&nbsp;
-![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scikit-learn)&nbsp\
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scikit-learn)\
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Microsoft-Excel)&nbsp;
+![MS Power Automate](https://img.shields.io/badge/-Microsoft%20Power%20Automate-05122A?style=flat&logo=Azure-DevOps)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
