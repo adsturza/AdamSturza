@@ -36,9 +36,7 @@
 💾 &nbsp;Assortment of school-related & personal projects
 </h3>
 
-<p align="center">
-  <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
-</p>
+<img align="center" src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
 [SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis](https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project)
   
 
