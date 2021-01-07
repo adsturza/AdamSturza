@@ -32,9 +32,9 @@
 ![MS Power Automate](https://img.shields.io/badge/-Microsoft%20Power%20Automate-05122A?style=flat&logo=Azure-DevOps)&nbsp;
 ![Webull](https://img.shields.io/badge/-Webull-05122A?style=flat&logo=Todoist)&nbsp;
 
-<h2 align="center">
+<h3 align="center">
 💾 &nbsp;Assortment of school-related & personal projects
-</h2>
+</h3>
 
 <p align="center">
   <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
