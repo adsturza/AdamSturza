@@ -38,14 +38,7 @@
 
 <p align="center">
   <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
-  <details align="center">
-  <summary>Data-Oriented Programming Final Project</summary>
-    
-  - [List]
-    * [Bullet1]
-    * [Bullet2]
-  
-  </details>
+  <h5>SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</h5>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
