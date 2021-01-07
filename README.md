@@ -36,7 +36,7 @@
 
 ### 💾 &nbsp;Assortment of school-related & personal projects
 
-![CatClassifier jpg](/screenshots/CatClassifier.jpg?raw=true "CatClassifierImg")
+![](/screenshots/CatClassifier.jpg?raw=true =250x250)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
