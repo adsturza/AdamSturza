@@ -32,6 +32,8 @@
 ![MS Power Automate](https://img.shields.io/badge/-Microsoft%20Power%20Automate-05122A?style=flat&logo=Azure-DevOps)&nbsp;
 ![Webull](https://img.shields.io/badge/-Webull-05122A?style=flat&logo=Todoist)&nbsp;
 
+![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adsturza&show_icons=true&theme=dark)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/adam-sturza-4397551a3/"><img src="https://img.shields.io/badge/-Adam%20Sturza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
