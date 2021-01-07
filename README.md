@@ -32,14 +32,14 @@
 ![MS Power Automate](https://img.shields.io/badge/-Microsoft%20Power%20Automate-05122A?style=flat&logo=Azure-DevOps)&nbsp;
 ![Webull](https://img.shields.io/badge/-Webull-05122A?style=flat&logo=Todoist)&nbsp;
 
-<p align="center">
-### 💾 &nbsp;Assortment of school-related & personal projects
-</p>
+<h2 align="center">
+💾 &nbsp;Assortment of school-related & personal projects
+</h2>
 
 <p align="center">
   <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
   <details align="center">
-  <summary>"Data-Oriented Programming Final Project"</summary>
+  <summary>Data-Oriented Programming Final Project</summary>
     
   - [List]
     * [Bullet1]
