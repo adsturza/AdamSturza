@@ -43,6 +43,7 @@
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">
 <img src="/screenshots/SI206.jpg" alt="SI206" width="400" height="250"></img>
 <a>
+<br />
 Studied and manipulated CSV tables provided by the New York Times on US county COVID-19 statistics. Studied the relationship between mask wearing in particular counties and states versus the number of cases, hospitalizations, deaths, etc. Implemented a number of strategies to more effectively utilize the data in SQL tables as well as output a reasonable amount of summary data and numerous visualizations. Concluded that it may have been more effective to look at time-series data, but that the skills learned while developing the project made it well worthwhile.
 <br />
 <br />
@@ -54,6 +55,7 @@ Studied and manipulated CSV tables provided by the New York Times on US county C
 <a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">
 <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="250"></img>
 </a>
+<br />
 Given a training and test set of cat pictures labelled as cat or not, objective was to build a simple image-recognition algorithm to classify whether a picture is a cat or non-cat. Implemented gradient descent and cost optimization to achieve an in-sample accuracy of 99% and an out-of-sample or test accuracy of 70%. Learned the necessity behind preprocessing and normalizing your dataset to optimize it best for a machine to learn; this is especially true for images or inputs of higher dimensions. Examined different learning rates to discover how different models converge faster and minimize the cost most effectively.
 <br />
 <br />
@@ -65,6 +67,7 @@ Given a training and test set of cat pictures labelled as cat or not, objective 
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">
 <img src="/screenshots/SIGNSwTF.jpg" alt="SIGNSwTF" width="400" height="250"></img>
 </a>
+<br />
 Examined a subset of the SIGNS dataset, which contains pictures of signs representing numbers 0-5. Using numpy as background, developed basic intuition about developing a tensorflow model with placeholders, different parameters and Variable types, propogation and cost optimization. Trained a classification model which had an in-sample accuracy of 99% and out-of-sample accuracy of ~72%. Model likely could be improved not to overfit using dropout or L2 regularization.
 <br />
 </p>
@@ -75,6 +78,7 @@ Examined a subset of the SIGNS dataset, which contains pictures of signs represe
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">
 <img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="50"></img>
 </a>
+<br />
 Learned the fundamentals behind convolutional nets and worked on a basic convNet in tensorflow to classify the SIGNS dataset. Learned a number of built-in tensorflow functions which enable easy implementation of filter convolving, max-pooling, flattening and fully-connected layers. Resulting convNet had a better accuracy classifying images with an out-of-sample accuracy of ~78%. Gained a better understanding why convNets perform better on image datasets, which is due to images having high dimensionality and the effectiveness of convNets in reducing the number of parameters needed to train by only focusing on parts of each image.
 <br />
 <br />
