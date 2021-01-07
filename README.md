@@ -32,11 +32,29 @@
 ![MS Power Automate](https://img.shields.io/badge/-Microsoft%20Power%20Automate-05122A?style=flat&logo=Azure-DevOps)&nbsp;
 ![Webull](https://img.shields.io/badge/-Webull-05122A?style=flat&logo=Todoist)&nbsp;
 
-![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adsturza&show_icons=true&theme=dark)
+<h3 align="center">
+💾 &nbsp;Assortment of school-related & personal projects
+</h3>
 
-### 💾 &nbsp;Assortment of school-related & personal projects
+<p align="center">
+<img src="/screenshots/SI206.jpg" alt="SI206" width="400" height="250"></img>
+<br />
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</a>
+<br />
+</p>
+
+<p align="center">
+<img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="600" height="250"></img>
+<br />
+<a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">Classifying Cats with Gradient Descent</a>
+<br />
+</p>
+
+  
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/adam-sturza-4397551a3/"><img src="https://img.shields.io/badge/-Adam%20Sturza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adsturza@umich.edu"><img src="https://img.shields.io/badge/-adsturza@umich.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adsturza&show_icons=true&theme=dark)
