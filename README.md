@@ -47,7 +47,9 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">
 <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="250"></img>
+</a>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">Classifying Cats with Gradient Descent</a>
 <br />
@@ -55,7 +57,9 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">
 <img src="/screenshots/SIGNSwTF.jpg" alt="SIGNSwTF" width="400" height="250"></img>
+</a>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">Classifying SIGNS with TensorFlow</a>
 <br />
@@ -63,7 +67,9 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">
 <img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="50"></img>
+</a>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">Classifying SIGNS with Convolution</a>
 <br />
