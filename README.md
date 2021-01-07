@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="600" height="250"></img>
+<img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="250"></img>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">Classifying Cats with Gradient Descent</a>
 <br />
