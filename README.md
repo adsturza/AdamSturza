@@ -36,7 +36,12 @@
 ### 💾 &nbsp;Assortment of school-related & personal projects
 
 <p align="center">
-  <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="200">
+  <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
+  <details>
+  <summary>"Data-Oriented Programming Final Project"</summary>
+  -> Info1
+  -> Info2
+  </details>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
