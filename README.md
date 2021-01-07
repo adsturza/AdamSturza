@@ -34,7 +34,7 @@
 
 ![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adsturza&show_icons=true&theme=dark)
 
-### 💾🏻 &nbsp;Assortment of Projects (Mix of school-related and personal)
+### 💾 &nbsp;Assortment of school-related & personal projects
 
 ### 🤝🏻 &nbsp;Connect with Me
 
