@@ -34,6 +34,7 @@
 
 <h3 align="center">
 💾 &nbsp;Assortment of school-related & personal projects
+<br />
 </h3>
 
 <p align="center">
@@ -42,43 +43,45 @@
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">
 <img src="/screenshots/SI206.jpg" alt="SI206" width="400" height="250"></img>
 <a>
-<br />
-<br />
 Studied and manipulated CSV tables provided by the New York Times on US county COVID-19 statistics. Studied the relationship between mask wearing in particular counties and states versus the number of cases, hospitalizations, deaths, etc. Implemented a number of strategies to more effectively utilize the data in SQL tables as well as output a reasonable amount of summary data and numerous visualizations. Concluded that it may have been more effective to look at time-series data, but that the skills learned while developing the project made it well worthwhile.
+<br />
+<br />
 </p>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier"><strong>Classifying Cats with LogReg as a Neural Net</strong></a>
+<br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">
 <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="250"></img>
 </a>
-<br />
-<a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">Classifying Cats with Gradient Descent</a>
+Given a training and test set of cat pictures labelled as cat or not, objective was to build a simple image-recognition algorithm to classify whether a picture is a cat or non-cat. Implemented gradient descent and cost optimization to achieve an in-sample accuracy of 99% and an out-of-sample or test accuracy of 70%. Learned the necessity behind preprocessing and normalizing your dataset to optimize it best for a machine to learn; this is especially true for images or inputs of higher dimensions. Examined different learning rates to discover how different models converge faster and minimize the cost most effectively.
 <br />
 <br />
 </p>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF"><strong>Classifying SIGNS with TensorFlow</strong></a>
+<br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">
 <img src="/screenshots/SIGNSwTF.jpg" alt="SIGNSwTF" width="400" height="250"></img>
 </a>
-<br />
-<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">Classifying SIGNS with TensorFlow</a>
-<br />
+Examined a subset of the SIGNS dataset, which contains pictures of signs representing numbers 0-5. Using numpy as background, developed basic intuition about developing a tensorflow model with placeholders, different parameters and Variable types, propogation and cost optimization. Trained a classification model which had an in-sample accuracy of 99% and out-of-sample accuracy of ~72%. Model likely could be improved not to overfit using dropout or L2 regularization.
 <br />
 </p>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution"><strong>Classifying SIGNS with Convolution</strong></a>
+<br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">
 <img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="50"></img>
 </a>
-<br />
-<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">Classifying SIGNS with Convolution</a>
+Learned the fundamentals behind convolutional nets and worked on a basic convNet in tensorflow to classify the SIGNS dataset. Learned a number of built-in tensorflow functions which enable easy implementation of filter convolving, max-pooling, flattening and fully-connected layers. Resulting convNet had a better accuracy classifying images with an out-of-sample accuracy of ~78%. Gained a better understanding why convNets perform better on image datasets, which is due to images having high dimensionality and the effectiveness of convNets in reducing the number of parameters needed to train by only focusing on parts of each image.
 <br />
 <br />
 </p>
 
 <p align="center">
-<a href="https://github.com/adsturza/AdamSturza">💻 Please check out my other GitHub projects here!</a>
+<a href="https://github.com/adsturza/AdamSturza"><strong>💻 Please check out my other GitHub projects here!</strong></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
