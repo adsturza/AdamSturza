@@ -38,7 +38,7 @@
 
 <div align="center"
 <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200"></img>\
-<h5>[SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis](https://www.google.com/)</h5>
+[SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis](https://www.google.com/)
 
 </div>
   
