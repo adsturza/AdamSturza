@@ -38,10 +38,10 @@
 <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="300" height="200">
 
 <p align="center">
-### 🤝🏻 &nbsp;Connect with Me
+  ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/adam-sturza-4397551a3/"><img src="https://img.shields.io/badge/-Adam%20Sturza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adsturza@umich.edu"><img src="https://img.shields.io/badge/-adsturza@umich.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adam-sturza-4397551a3/"><img src="https://img.shields.io/badge/-Adam%20Sturza-0077B5?      style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:adsturza@umich.edu"><img src="https://img.shields.io/badge/-adsturza@umich.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adsturza&show_icons=true&theme=dark)
+  ![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adsturza&show_icons=true&theme=dark)
 </p>
