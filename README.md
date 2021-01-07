@@ -37,13 +37,14 @@
 </h3>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project"><b>SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</b></a>
+<br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">
 <img src="/screenshots/SI206.jpg" alt="SI206" width="400" height="250"></img>
 <a>
 <br />
-<a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</a>
 <br />
-<br />
+Studied and manipulated CSV tables provided by the New York Times on US county COVID-19 statistics. Studied the relationship between mask wearing in particular counties and states versus the number of cases, hospitalizations, deaths, etc. Implemented a number of strategies to more effectively utilize the data in SQL tables as well as output a reasonable amount of summary data and numerous visualizations. Concluded that it may have been more effective to look at time-series data, but that the skills learned while developing the project made it well worthwhile.
 </p>
 
 <p align="center">
