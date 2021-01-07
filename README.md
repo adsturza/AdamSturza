@@ -41,12 +41,14 @@
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</a>
 <br />
+<br />
 </p>
 
 <p align="center">
 <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="250"></img>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/Cat%20Image%20Classifier">Classifying Cats with Gradient Descent</a>
+<br />
 <br />
 </p>
 
@@ -55,12 +57,14 @@
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">Classifying SIGNS with TensorFlow</a>
 <br />
+<br />
 </p>
 
 <p align="center">
-<img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="150"></img>
+<img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="50"></img>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">Classifying SIGNS with Convolution</a>
+<br />
 <br />
 </p>
 
