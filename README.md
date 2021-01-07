@@ -50,6 +50,20 @@
 <br />
 </p>
 
+<p align="center">
+<img src="/screenshots/SIGNSwTF.jpg" alt="SIGNSwTF" width="400" height="250"></img>
+<br />
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20TF">Classifying SIGNS with TensorFlow</a>
+<br />
+</p>
+
+<p align="center">
+<img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="250"></img>
+<br />
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">Classifying SIGNS with Convolution</a>
+<br />
+</p>
+
   
 
 ### 🤝🏻 &nbsp;Connect with Me
