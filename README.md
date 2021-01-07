@@ -39,8 +39,10 @@
   <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
   <details>
   <summary>"Data-Oriented Programming Final Project"</summary>
+    
   -> Info1
   -> Info2
+  
   </details>
 </p>
 
