@@ -37,7 +37,9 @@
 </h3>
 
 <p align="center">
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">
 <img src="/screenshots/SI206.jpg" alt="SI206" width="400" height="250"></img>
+<a>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</a>
 <br />
