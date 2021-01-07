@@ -37,8 +37,9 @@
 </h3>
 
 <p align="center">
-<img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200"></img>\\
-[SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis](https://www.google.com/)
+<img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200"></img>
+<br />
+<a href="https://github.com/adsturza/AdamSturza/tree/master/SI%20206%20Final%20Project">SI 206 Data-Oriented Programming - Final Project - Covid Data Analysis</a>
 </p>
 
   
