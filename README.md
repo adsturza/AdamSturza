@@ -35,7 +35,9 @@
 
 ### 💾 &nbsp;Assortment of school-related & personal projects
 
-<img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="200">
+<p align="center">
+  <img src="/screenshots/CatClassifier.jpg" alt="CatClassifier" width="400" height="200">
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
