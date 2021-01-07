@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-<img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="250"></img>
+<img src="/screenshots/SIGNSwCONV.jpg" alt="SIGNSwCONV" width="400" height="150"></img>
 <br />
 <a href="https://github.com/adsturza/AdamSturza/tree/master/SIGNS%20dataset%20with%20Convolution">Classifying SIGNS with Convolution</a>
 <br />
