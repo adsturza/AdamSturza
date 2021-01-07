@@ -37,11 +37,12 @@
 
 <p align="center">
   <img src="/screenshots/SI206.jpg" alt="CatClassifier" width="400" height="200">
-  <details>
+  <details align="center">
   <summary>"Data-Oriented Programming Final Project"</summary>
     
-  -> Info1
-  -> Info2
+  - [List]
+    * [Bullet1]
+    * [Bullet2]
   
   </details>
 </p>
