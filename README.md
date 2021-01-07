@@ -36,6 +36,8 @@
 
 ### 💾 &nbsp;Assortment of school-related & personal projects
 
+![CatClassifier jpg](/screenshots/CatClassifier.jpg?raw=true "CatClassifierImg")
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/adam-sturza-4397551a3/"><img src="https://img.shields.io/badge/-Adam%20Sturza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
