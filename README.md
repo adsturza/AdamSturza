@@ -76,7 +76,9 @@
 <br />
 </p>
 
-  
+<p align="center">
+<a href="https://github.com/adsturza/AdamSturza">Please check out my other GitHub projects here!</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
