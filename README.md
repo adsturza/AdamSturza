@@ -85,7 +85,7 @@ Learned the fundamentals behind convolutional nets and worked on a basic convNet
 </p>
 
 <p align="center">
-<a href="https://github.com/adsturza/AdamSturza"><strong>💻 Please check out my other GitHub projects here!</strong></a>
+<a href="https://github.com/adsturza/AdamSturza"><strong>💻 Please check out the rest of my GitHub here!</strong></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
