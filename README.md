@@ -7,7 +7,7 @@
 👣 &nbsp;Looking to explore opportunities in analytical consulting, IT management, and anywhere I can make a positive difference.\
 ✍️ &nbsp;In my spare time, I enjoy keeping up with sports, the stock market, and the most recent politics and world news.\
 🏫 &nbsp;On campus, I am involved in Reach Consulting Group, U-M Information & Technology Services and Michigan Sports Analytics.\
-📄 &nbsp;Please take a look at my [Resume](https://github.com/adsturza/AdamSturza/blob/master/AdamSturzaResume-2020.pdf) for more information about me. I am always looking for new growth opportunities.\
+📄 &nbsp;Please take a look at my [Resume](https://github.com/adsturza/AdamSturza/blob/master/AS_RESUME.pdf) for more information about me. I am always looking for new growth opportunities.\
 ✉️ &nbsp;Please don't hesitate to reach out to me at adsturza@umich.edu.
 
 ### 🛠 &nbsp;Skills & Tools
