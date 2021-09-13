@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am a current student at the University of Michigan looking to study information analysis through the U-M School of Information.\
+🎓 &nbsp;I am a current student at the University of Michigan studying information analysis/data analytics through the U-M School of Information.\
 💡 &nbsp;I have experience in business insight, data cleansing, analysis, visualization, machine learning, economics and statistics.\
 👣 &nbsp;Looking to explore opportunities in analytical consulting, IT management, and anywhere I can make a positive difference.\
 ✍️ &nbsp;In my spare time, I enjoy keeping up with sports, the stock market, and the most recent politics and world news.\
